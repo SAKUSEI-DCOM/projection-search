@@ -1,0 +1,11 @@
+{
+  "last_checked_at": "2026-11-12T08:22:21.858266+00:00",
+  "schedule": "3時間ごと（予定。遅延・スキップの可能性あり）",
+  "configured_feeds": 0,
+  "candidate_count": 0,
+  "x_api_enabled": false,
+  "x_posts_received_last_run": 0,
+  "x_auto_monitoring_active": false,
+  "feed_errors": [],
+  "notice": "X APIなしではX投稿の直接自動監視はできません。配信中表示は予定時刻に基づきます。"
+}
