@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-11-12T09:07:45.268544+00:00",
+  "roster_count": 142,
+  "debuted_wiki_classification": 122,
+  "predebut_wiki_classification": 20,
+  "debut_datetime_known": 8,
+  "portrait_registered": 0,
+  "portrait_candidates_unverified": 1,
+  "x_profiles_known": 10,
+  "iriam_profiles_known": 0,
+  "published_schedules": 0,
+  "published_events": 0,
+  "configured_public_feeds": 0,
+  "x_direct_monitoring": false,
+  "last_collection_at": "2026-11-12T08:22:21.858266+00:00",
+  "last_collection_age_hours": 0.8,
+  "collection_stale": false,
+  "portrait_last_scan_at": null,
+  "issues": [],
+  "issue_count": 0,
+  "notes": [
+    "Wikiの所属区分は初配信の実施証明ではありません。",
+    "立ち絵候補は本人・公開状態・転載許可の確認前に公開しません。",
+    "X APIなしでは全ライバーのX投稿を自動監視できません。"
+  ]
+}
