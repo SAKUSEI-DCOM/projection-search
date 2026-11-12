@@ -143,3 +143,7 @@ GitHub上の既存ファイルと統合するときは、登録済みの `livers
 
 ## v14
 画像掲載状況の一覧: `portrait_gallery.html`。詳細は `UPDATE_V14.md`。
+
+
+## v36
+Bluesky公式公開APIからの無料告知候補収集を追加。設定と制限は [UPDATE_V36.md](UPDATE_V36.md) を参照。
