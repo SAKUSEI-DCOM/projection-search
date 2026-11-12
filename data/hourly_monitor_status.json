@@ -1,0 +1,868 @@
+{
+  "checked_at": "2026-11-13T01:03:50.072414+09:00",
+  "cadence": "毎時23分（GitHub Actionsの遅延あり）",
+  "liver_count": 142,
+  "profiles_with_x_url": 10,
+  "registered_x_handles": 21,
+  "feed_sources_configured": 0,
+  "feeds_successfully_fetched": 0,
+  "official_x_api_configured": false,
+  "official_x_api_posts_received": 0,
+  "issue_import_status": "",
+  "x_monitoring_active": false,
+  "notice": "登録したXプロフィールURLだけでは投稿は取得できません。X APIの権限ある接続または許可済みフィードが必要です。",
+  "members": [
+    {
+      "name": "遊部あみゅ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "真宵セレネ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "斑目めいな",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "犬星るみな",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "眠音きらい",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "天ノ咬うる",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "乙女川千花",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "椎名みあ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "月影みずき",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "陽葵ゆき",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "黒衣カタン",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "望月ライカ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "緋村翠",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "冬月柚葉",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "寝覚紬",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "青樹ききょう",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "色相弦春",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "燈守ヴェラ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "猫眼凛",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "黎メイ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "羽望アウラ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "骸道輪",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "白銀みう",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "花姫社める",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "てゃん",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "チム＝レイザ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "猫好矢宵",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "桃乃ネユ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "ソルヴァ・きる",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "アズール・ローザ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "影浮吏いヰぃ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "深淵魅幽",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "黒月みゆ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "たまごですが？",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "泡沫こゆ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "夜白ねね",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "牙不がぶ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "ノワ・ブランシュ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "稲狐宵",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "雲井らむね",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "成透みゅう",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "星見月姫",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "夢紡",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "ルネ・ルルカ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "くもﾘ。",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "瞳羽眠",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "紬希いなり",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "碧島詩乃",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "スターチス・ラベリス",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "白澄光",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "花守こはる",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "レン・フィオーレ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "沙羅世ニア",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "宵谷チトセ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "四ノ宮れい",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "天音柚寿葉",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "涼笠楓葵",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "たちばな暦",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "ナナシ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "オルフェ・ワトソン",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "一芽ちゃう",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "透巳ねね",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "夜影結衣",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "なのら",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "スヱシャ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "翡翠エナ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "春野撫子",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "這音",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "涼音蓬",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "月葉桜夜",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "宵代紫祈",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "月宮希紡",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "隠ビビ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "須磨ノこよい",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "星熊みら",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "天乃いろは",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "伊勢クロハ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "千鳥湊都",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "獅子戸鋏ニ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "鵲星夏",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "アンバー・リベラ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "深水ヨミ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "斗南遊釉",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "藍白ミズハ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "蝶音りふぁ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "藍染凪",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "次元さなぎ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "桜果ゆめ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "海老原耕",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "白羽珠ぴぴ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "レイ・ヴァレイ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "夢架緋詠",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "翠月エリス",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "紫紀青華",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "月代奏音",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "湊愛くるみ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "音晴ななお",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "翠玲めろ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "藤乃莉音",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "黒瀬梟",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "成瀬萃",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "一ノ瀬杏",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "Bella",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "月詠那知",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "羽宮ふゆ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "ロワ・クオリア",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "如月がう",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "水汐やか",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "白藤雫",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "遊間栞音",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "紅月優希乃",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "星乃奏心",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "宵彩ねおん",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "紅屋うめ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "白狗ネル",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "有栖璃央",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "ネルタ・ベル",
+      "x_url": "https://x.com/Beruoxo666",
+      "handle": "beruoxo666",
+      "registered": true
+    },
+    {
+      "name": "小春みんと",
+      "x_url": "https://x.com/koharumint",
+      "handle": "koharumint",
+      "registered": true
+    },
+    {
+      "name": "天使リリィ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "赤羽緋色",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "猫守妙華",
+      "x_url": "https://x.com/nekomori_myouka",
+      "handle": "nekomori_myouka",
+      "registered": true
+    },
+    {
+      "name": "鬼灯澄夜",
+      "x_url": "https://x.com/j6vqa",
+      "handle": "j6vqa",
+      "registered": true
+    },
+    {
+      "name": "藍咲静",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "蝶華ゆうむ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "ヘリックス・ハヴォック",
+      "x_url": "https://x.com/Milk_H0LIC",
+      "handle": "milk_h0lic",
+      "registered": true
+    },
+    {
+      "name": "書寂院シーカ",
+      "x_url": "https://x.com/seeker__911",
+      "handle": "seeker__911",
+      "registered": true
+    },
+    {
+      "name": "芹",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "猫屋敷たまも",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "鯱巻凪",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "水城のあ",
+      "x_url": "https://x.com/iroiro3348",
+      "handle": "iroiro3348",
+      "registered": true
+    },
+    {
+      "name": "茶話",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "文野こもり",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "神代くおん",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "兎森ねむ",
+      "x_url": "https://x.com/su11uv3",
+      "handle": "su11uv3",
+      "registered": true
+    },
+    {
+      "name": "宵闇ゆら",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "沙楼結愛",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "朱桃はなび",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "月咲りぼん",
+      "x_url": "https://x.com/tsukisakii",
+      "handle": "tsukisakii",
+      "registered": true
+    },
+    {
+      "name": "叶音ねる",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "夜凪とわ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    },
+    {
+      "name": "九尾あおい",
+      "x_url": "https://x.com/Sunday11ry",
+      "handle": "sunday11ry",
+      "registered": true
+    },
+    {
+      "name": "雪代なぎさ",
+      "x_url": "",
+      "handle": null,
+      "registered": false
+    }
+  ]
+}
